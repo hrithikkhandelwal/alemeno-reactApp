@@ -1,0 +1,25 @@
+.loginContainer {
+  display: grid;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 13%;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+}
+.loginInput {
+  width: 400px;
+  height: 30px;
+  border: 1px solid grey;
+  border-radius: 30px;
+  padding-left: 20px;
+}
+
+.loginLink {
+  border: 4px solid #00d4df;
+  border-radius: 50px;
+  background-color: #04d2ddbd;
+  color: white;
+  text-decoration: none;
+  padding: 10px 50px 10px 50px;
+}

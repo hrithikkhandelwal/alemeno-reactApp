@@ -1,0 +1,18 @@
+.navContainer {
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+  /* background-image: linear-gradient(to right, rgb(0 127 255), rgb(0, 251, 255)); */
+  background-color: #00ADB5;
+  align-items: center;
+}
+
+.link {
+  margin-left: 30px;
+  text-decoration: none;
+  color: white;
+}
+
+.linked {
+  margin-right: 80px;
+}

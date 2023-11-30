@@ -1,0 +1,12 @@
+.card {
+  margin-top: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
+  border-radius: 30px;
+  padding-top: 5px;
+  padding-left: 30px;
+  margin-bottom: 4%;
+  padding-bottom: 2%;
+  background-color: #393e46;
+  color: white;
+}
